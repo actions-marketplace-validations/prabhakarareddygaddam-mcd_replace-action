@@ -1,6 +1,6 @@
-name: 'Replace Action'
+name: 'ReplaceAll String Values Action'
 description: 'Replaces substrings in files. Useful to enrich configs with previous steps artifacts.'
-author: Data Monsters
+author: Data Monsters 2 
 branding:
   icon: 'repeat'  
   color: 'green'
